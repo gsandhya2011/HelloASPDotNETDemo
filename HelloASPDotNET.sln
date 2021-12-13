@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloASPDotNET", "HelloASPDotNET\HelloASPDotNET.csproj", "{CC03A044-DCE4-4A47-AF5F-A40141E22F28}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloASPDotNET", "HelloASPDotNET\HelloASPDotNET.csproj", "{C4BCAB27-117D-46C8-BC08-7AE29821AE5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC03A044-DCE4-4A47-AF5F-A40141E22F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC03A044-DCE4-4A47-AF5F-A40141E22F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC03A044-DCE4-4A47-AF5F-A40141E22F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC03A044-DCE4-4A47-AF5F-A40141E22F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BCAB27-117D-46C8-BC08-7AE29821AE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BCAB27-117D-46C8-BC08-7AE29821AE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BCAB27-117D-46C8-BC08-7AE29821AE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BCAB27-117D-46C8-BC08-7AE29821AE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EF19AB-FBD9-4FB6-BC36-5EA5D448F86D}
 	EndGlobalSection
 EndGlobal
