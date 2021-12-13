@@ -64,6 +64,9 @@ namespace HelloASPDotNET.Controllers
             {
                 return $"Guten tag, {name}!!???";
             }
+            else if(lang == "telugu"){
+                return $"Namaskaram, {name}!!";
+            }
             return "No language selected!";
         }
     }
